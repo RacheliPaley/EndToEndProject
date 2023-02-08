@@ -1,0 +1,48 @@
+C:\Users\hitmachut\source\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+C:\Users\hitmachut\source\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.dll
+C:\Users\hitmachut\source\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+C:\Users\hitmachut\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\hitmachut\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hitmachut\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\hitmachut\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+C:\Users\hitmachut\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\hitmachut\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.dll
+C:\Users\hitmachut\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+C:\Users\hitmachut\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+C:\Users\hitmachut\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+Y:\Groups\2\פאלי הניה רחל\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+Y:\Groups\2\פאלי הניה רחל\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\פאלי הניה רחל\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+Y:\Groups\2\פאלי הניה רחל\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+Y:\Groups\2\פאלי הניה רחל\FinalProject\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
+D:\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+D:\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.dll
+D:\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+D:\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+D:\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+D:\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+D:\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+D:\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.dll
+D:\FinalProject\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+D:\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+D:\FinalProject\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll

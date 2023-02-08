@@ -1,0 +1,48 @@
+C:\Users\hitmachut\source\repos\FinalProject\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\hitmachut\source\repos\FinalProject\Common\bin\Debug\net6.0\Common.dll
+C:\Users\hitmachut\source\repos\FinalProject\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\hitmachut\source\repos\FinalProject\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\hitmachut\source\repos\FinalProject\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hitmachut\source\repos\FinalProject\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\hitmachut\source\repos\FinalProject\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\hitmachut\source\repos\FinalProject\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\hitmachut\source\repos\FinalProject\Common\obj\Debug\net6.0\Common.dll
+C:\Users\hitmachut\source\repos\FinalProject\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\hitmachut\source\repos\FinalProject\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\hitmachut\source\repos\FinalProject\Common\obj\Debug\net6.0\ref\Common.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Common\bin\Debug\net6.0\Common.deps.json
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Common\bin\Debug\net6.0\Common.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Common\bin\Debug\net6.0\Common.pdb
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Common\obj\Debug\net6.0\Common.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Common\obj\Debug\net6.0\refint\Common.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Common\obj\Debug\net6.0\Common.pdb
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Common\obj\Debug\net6.0\ref\Common.dll
+D:\FinalProject\Common\bin\Debug\net6.0\Common.deps.json
+D:\FinalProject\Common\bin\Debug\net6.0\Common.dll
+D:\FinalProject\Common\bin\Debug\net6.0\Common.pdb
+D:\FinalProject\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\FinalProject\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\FinalProject\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\FinalProject\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\FinalProject\Common\obj\Debug\net6.0\Common.dll
+D:\FinalProject\Common\obj\Debug\net6.0\refint\Common.dll
+D:\FinalProject\Common\obj\Debug\net6.0\Common.pdb
+D:\FinalProject\Common\obj\Debug\net6.0\ref\Common.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Common\bin\Debug\net6.0\Common.deps.json
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Common\bin\Debug\net6.0\Common.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Common\bin\Debug\net6.0\Common.pdb
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Common\obj\Debug\net6.0\Common.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Common\obj\Debug\net6.0\refint\Common.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Common\obj\Debug\net6.0\Common.pdb
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Common\obj\Debug\net6.0\ref\Common.dll

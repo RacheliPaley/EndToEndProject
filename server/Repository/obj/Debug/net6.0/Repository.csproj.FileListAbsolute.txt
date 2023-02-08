@@ -1,0 +1,56 @@
+C:\Users\hitmachut\source\repos\FinalProject\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\hitmachut\source\repos\FinalProject\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\hitmachut\source\repos\FinalProject\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\hitmachut\source\repos\FinalProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\hitmachut\source\repos\FinalProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hitmachut\source\repos\FinalProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\hitmachut\source\repos\FinalProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\hitmachut\source\repos\FinalProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\hitmachut\source\repos\FinalProject\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\hitmachut\source\repos\FinalProject\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\hitmachut\source\repos\FinalProject\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\hitmachut\source\repos\FinalProject\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\hitmachut\source\repos\FinalProject\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\Users\hitmachut\source\repos\FinalProject\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Repository\bin\Debug\net6.0\Repository.deps.json
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Repository\bin\Debug\net6.0\Repository.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Repository\bin\Debug\net6.0\Repository.pdb
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Repository\obj\Debug\net6.0\Repository.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Repository\obj\Debug\net6.0\refint\Repository.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Repository\obj\Debug\net6.0\Repository.pdb
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\FinalProject\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\FinalProject\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+D:\FinalProject\Repository\bin\Debug\net6.0\Repository.dll
+D:\FinalProject\Repository\bin\Debug\net6.0\Repository.pdb
+D:\FinalProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\FinalProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\FinalProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\FinalProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\FinalProject\Repository\obj\Debug\net6.0\Repository.dll
+D:\FinalProject\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\FinalProject\Repository\obj\Debug\net6.0\Repository.pdb
+D:\FinalProject\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+D:\FinalProject\Repository\obj\Debug\net6.0\ref\Repository.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Repository\bin\Debug\net6.0\Repository.deps.json
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Repository\bin\Debug\net6.0\Repository.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Repository\bin\Debug\net6.0\Repository.pdb
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Repository\obj\Debug\net6.0\Repository.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Repository\obj\Debug\net6.0\refint\Repository.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Repository\obj\Debug\net6.0\Repository.pdb
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\Repository\obj\Debug\net6.0\ref\Repository.dll

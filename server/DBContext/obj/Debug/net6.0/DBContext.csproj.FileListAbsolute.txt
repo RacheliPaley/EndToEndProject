@@ -1,0 +1,68 @@
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\bin\Debug\net6.0\DBContext.deps.json
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\bin\Debug\net6.0\DBContext.dll
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\bin\Debug\net6.0\DBContext.pdb
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\bin\Debug\net6.0\Repository.dll
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\obj\Debug\net6.0\DBContext.csproj.AssemblyReference.cache
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\obj\Debug\net6.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\obj\Debug\net6.0\DBContext.AssemblyInfoInputs.cache
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\obj\Debug\net6.0\DBContext.AssemblyInfo.cs
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\obj\Debug\net6.0\DBContext.csproj.CoreCompileInputs.cache
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\obj\Debug\net6.0\DBContext.csproj.CopyComplete
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\obj\Debug\net6.0\DBContext.dll
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\obj\Debug\net6.0\refint\DBContext.dll
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\obj\Debug\net6.0\DBContext.pdb
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\obj\Debug\net6.0\ref\DBContext.dll
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\bin\Debug\net6.0\DBContext.runtimeconfig.json
+C:\Users\hitmachut\source\repos\FinalProject\DBContext\obj\Debug\net6.0\DBContext.genruntimeconfig.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\bin\Debug\net6.0\DBContext.deps.json
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\bin\Debug\net6.0\DBContext.runtimeconfig.json
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\bin\Debug\net6.0\DBContext.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\bin\Debug\net6.0\DBContext.pdb
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\bin\Debug\net6.0\Repository.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\bin\Debug\net6.0\Repository.pdb
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\obj\Debug\net6.0\DBContext.csproj.AssemblyReference.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\obj\Debug\net6.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\obj\Debug\net6.0\DBContext.AssemblyInfoInputs.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\obj\Debug\net6.0\DBContext.AssemblyInfo.cs
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\obj\Debug\net6.0\DBContext.csproj.CoreCompileInputs.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\obj\Debug\net6.0\DBContext.csproj.CopyComplete
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\obj\Debug\net6.0\DBContext.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\obj\Debug\net6.0\refint\DBContext.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\obj\Debug\net6.0\DBContext.pdb
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\obj\Debug\net6.0\DBContext.genruntimeconfig.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\DBContext\obj\Debug\net6.0\ref\DBContext.dll
+D:\FinalProject\DBContext\bin\Debug\net6.0\DBContext.deps.json
+D:\FinalProject\DBContext\bin\Debug\net6.0\DBContext.runtimeconfig.json
+D:\FinalProject\DBContext\bin\Debug\net6.0\DBContext.dll
+D:\FinalProject\DBContext\bin\Debug\net6.0\DBContext.pdb
+D:\FinalProject\DBContext\bin\Debug\net6.0\Repository.dll
+D:\FinalProject\DBContext\bin\Debug\net6.0\Repository.pdb
+D:\FinalProject\DBContext\obj\Debug\net6.0\DBContext.csproj.AssemblyReference.cache
+D:\FinalProject\DBContext\obj\Debug\net6.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\DBContext\obj\Debug\net6.0\DBContext.AssemblyInfoInputs.cache
+D:\FinalProject\DBContext\obj\Debug\net6.0\DBContext.AssemblyInfo.cs
+D:\FinalProject\DBContext\obj\Debug\net6.0\DBContext.csproj.CoreCompileInputs.cache
+D:\FinalProject\DBContext\obj\Debug\net6.0\DBContext.csproj.CopyComplete
+D:\FinalProject\DBContext\obj\Debug\net6.0\DBContext.dll
+D:\FinalProject\DBContext\obj\Debug\net6.0\refint\DBContext.dll
+D:\FinalProject\DBContext\obj\Debug\net6.0\DBContext.pdb
+D:\FinalProject\DBContext\obj\Debug\net6.0\DBContext.genruntimeconfig.cache
+D:\FinalProject\DBContext\obj\Debug\net6.0\ref\DBContext.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\bin\Debug\net6.0\DBContext.deps.json
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\bin\Debug\net6.0\DBContext.runtimeconfig.json
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\bin\Debug\net6.0\DBContext.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\bin\Debug\net6.0\DBContext.pdb
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\bin\Debug\net6.0\Repository.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\bin\Debug\net6.0\Repository.pdb
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\obj\Debug\net6.0\DBContext.csproj.AssemblyReference.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\obj\Debug\net6.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\obj\Debug\net6.0\DBContext.AssemblyInfoInputs.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\obj\Debug\net6.0\DBContext.AssemblyInfo.cs
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\obj\Debug\net6.0\DBContext.csproj.CoreCompileInputs.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\obj\Debug\net6.0\DBContext.csproj.CopyComplete
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\obj\Debug\net6.0\DBContext.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\obj\Debug\net6.0\refint\DBContext.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\obj\Debug\net6.0\DBContext.pdb
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\obj\Debug\net6.0\DBContext.genruntimeconfig.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\DBContext\obj\Debug\net6.0\ref\DBContext.dll

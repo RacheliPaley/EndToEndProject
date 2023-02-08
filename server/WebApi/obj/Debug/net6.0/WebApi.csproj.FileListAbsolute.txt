@@ -1,0 +1,285 @@
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\appsettings.json
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\WebApi.exe
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\WebApi.deps.json
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\WebApi.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\WebApi.pdb
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\AutoMapper.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Azure.Core.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Common.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\DBContext.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Repository.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Services.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Services.pdb
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Common.pdb
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\DBContext.pdb
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Repository.pdb
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\obj\Debug\net6.0\WebApi.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\obj\Debug\net6.0\WebApi.pdb
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\SQLiteMigrations.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\SQLitePCL.pretty.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\System.CodeDom.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\System.Text.Json.dll
+Y:\Groups\2\פאלי הניה רחל\FinalProject\WebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\FinalProject\WebApi\bin\Debug\net6.0\appsettings.json
+D:\FinalProject\WebApi\bin\Debug\net6.0\WebApi.exe
+D:\FinalProject\WebApi\bin\Debug\net6.0\WebApi.deps.json
+D:\FinalProject\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+D:\FinalProject\WebApi\bin\Debug\net6.0\WebApi.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\WebApi.pdb
+D:\FinalProject\WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Azure.Core.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\SQLiteMigrations.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\SQLitePCL.pretty.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\System.Text.Json.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Common.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\DBContext.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Repository.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Services.dll
+D:\FinalProject\WebApi\bin\Debug\net6.0\Common.pdb
+D:\FinalProject\WebApi\bin\Debug\net6.0\Services.pdb
+D:\FinalProject\WebApi\bin\Debug\net6.0\DBContext.pdb
+D:\FinalProject\WebApi\bin\Debug\net6.0\Repository.pdb
+D:\FinalProject\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+D:\FinalProject\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+D:\FinalProject\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+D:\FinalProject\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+D:\FinalProject\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\FinalProject\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\FinalProject\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\FinalProject\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\FinalProject\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+D:\FinalProject\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+D:\FinalProject\WebApi\obj\Debug\net6.0\WebApi.dll
+D:\FinalProject\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+D:\FinalProject\WebApi\obj\Debug\net6.0\WebApi.pdb
+D:\FinalProject\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+D:\FinalProject\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\appsettings.json
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\WebApi.exe
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\WebApi.deps.json
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\WebApi.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\WebApi.pdb
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\AutoMapper.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Azure.Core.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\SQLiteMigrations.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\SQLitePCL.pretty.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\System.CodeDom.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\System.Text.Json.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Common.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\DBContext.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Repository.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Services.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Common.pdb
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Services.pdb
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\DBContext.pdb
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\bin\Debug\net6.0\Repository.pdb
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\obj\Debug\net6.0\WebApi.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\obj\Debug\net6.0\WebApi.pdb
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+Y:\Groups\2\פאלי הניה רחל\פרקטיקום\FinalProject\WebApi\obj\Debug\net6.0\ref\WebApi.dll

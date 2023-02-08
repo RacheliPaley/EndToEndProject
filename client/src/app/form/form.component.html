@@ -1,0 +1,120 @@
+<form>
+   
+  <p>
+    <mat-form-field appearance="fill">
+      <mat-label>תעודת זהות</mat-label>
+      <input matInput placeholder=""   [(ngModel)]="userService.personSer.Tz"
+      name="tz"  #iden="ngModel" required pattern="[0-9 ]*" >
+
+      <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
+    
+      <mat-hint></mat-hint>
+      <div class="error" *ngIf="iden.touched&&iden.errors&&iden.errors['required']">זהו שדה חובה</div>
+      <div class="error" *ngIf="iden.invalid && (iden.dirty || iden.touched)"> ת"ז מכילה רק מספרים!!</div> 
+    </mat-form-field>
+  </p>
+
+  <p>
+    <mat-form-field appearance="fill">
+      <mat-label> שם פרטי</mat-label>
+      <input matInput placeholder=""  [(ngModel)]="userService.personSer.Fname" type="text" name="fname" #fname="ngModel"  required pattern="[a-zA-Z]*" >
+
+      <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
+    
+      <mat-hint></mat-hint>
+      <div class="error" *ngIf="fname.touched&& fname.errors&&fname.errors['required']">זהו שדה חובה</div>
+    </mat-form-field>
+  </p>
+  <p>
+    <mat-form-field appearance="fill">
+      <mat-label> משפחה</mat-label>
+      <input matInput placeholder=""  [(ngModel)]="userService.personSer.Lname" type="text" name="lname"  #lname="ngModel"  >
+
+      <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
+    
+      <mat-hint></mat-hint>
+      <div class="error" *ngIf="lname.touched&& lname.errors&&lname.errors['required']">זהו שדה חובה</div>
+    </mat-form-field>
+  </p>
+  <p>
+    <mat-form-field appearance="fill">
+      <mat-label> תאריך לידה</mat-label>
+      <input matInput placeholder=""  [(ngModel)]="userService.personSer.DateOfBirdth" type="text" name="date"  #d="ngModel" >
+
+      <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
+    
+      <mat-hint></mat-hint>
+      <div class="error" *ngIf="d.touched&&d.errors&&d.errors['required']">זהו שדה חובה</div>
+    </mat-form-field>
+  </p>
+ <p>
+  <mat-form-field appearance="fill">
+    <mat-label>מין</mat-label>
+    <mat-select>
+      <mat-option value="one">זכר</mat-option>
+      <mat-option value="two"> נקבה</mat-option>
+    </mat-select>
+  </mat-form-field>
+</p>
+<p>
+  <mat-form-field appearance="fill">
+    <mat-label>קופת חולים</mat-label>
+    <mat-select>
+      <mat-option value="one">מכבי</mat-option>
+      <mat-option value="two"> כללית</mat-option>
+      <mat-option value="three">מאוחדת</mat-option>
+      <mat-option value="four"> לאומית</mat-option>
+    </mat-select>
+  </mat-form-field>
+</p>
+
+
+ 
+
+
+
+ <div>   <input type="button" value="הוסף ילד" (click)="addChild()" /></div>
+ <div    *ngIf="isDispley">
+    <p>
+      <mat-form-field appearance="fill">
+        <mat-label>  תעודת זהות</mat-label>
+        <input matInput  placeholder=""  [(ngModel)]="child.Id" type="text" name="dat" #c="ngModel" >
+
+        <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
+      
+        <mat-hint></mat-hint>
+        <!-- <div class="error" *ngIf="d.touched&&d.errors&&d.errors['required']">זהו שדה חובה</div> -->
+      </mat-form-field>
+    </p>
+
+    <p>
+      <mat-form-field appearance="fill">
+        <mat-label>   שם</mat-label>
+        <input matInput   placeholder=" " [(ngModel)]="child.Name" type="text" name="dat" >
+
+        <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
+      
+        <mat-hint></mat-hint>
+        <!-- <div class="error" *ngIf="d.touched&&d.errors&&d.errors['required']">זהו שדה חובה</div> -->
+      </mat-form-field>
+    </p>
+    <p>
+      <mat-form-field appearance="fill">
+        <mat-label>   שם</mat-label>
+        <input matInput  placeholder=" " [(ngModel)]="child.DateOfBirdth" type="text" name="dat" >
+
+        <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
+      
+        <mat-hint></mat-hint>
+        <!-- <div class="error" *ngIf="d.touched&&d.errors&&d.errors['required']">זהו שדה חובה</div> -->
+      </mat-form-field>
+    </p>
+    <div>   <input type="button" value=" שמירת ילד" (click)="addTheChild()" /></div>
+
+</div>
+ <div>
+</div>
+<div>   <input type="button" value="שמירה" (click)="logIn()" /></div>
+  <button class="centre btn mc" (click)="downloadExcel()">Download</button>
+
+</form>
