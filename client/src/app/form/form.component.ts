@@ -57,9 +57,14 @@ this.isDispley=true
     this.childService.addChild(this.childService.childSer).subscribe( good=>{console.log(good),error=>{console.log(error);
     }
     })
-    this.isDispley=false
+    var elem = document.querySelector('#menu');
+
+    // Create a copy of it
+    var clone = elem.cloneNode(true);
+    elem.after(clone);
+  //   this.isDispley=false
+  // }
   }
- 
      logIn(){
       this.userService.saveInStorage(this.userP);
      this.userService.currentUser.next(this.userP);
