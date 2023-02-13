@@ -101,7 +101,7 @@
 			<input [(ngModel)]="child.Id" type="text" placeholder="תעודת זהות"
 					value="" class="col-7 form-control"
 						style="width:300px;">
-                        <input [(ngModel)]="child.DateOfBirdth" type="text" placeholder="תאריך לידה"
+                        <input [(ngModel)]="child.DateOfBirdth" type="date" placeholder="תאריך לידה"
                         value="" class="col-7 form-control"
                             style="width:300px;">
                             <input [(ngModel)]="child.Name" type="text" placeholder="שם"
@@ -128,9 +128,9 @@
 					justify-content-center align-items-center
 					text-light h3">
 
-			<div class="col-9 text-light h3">{{item.Name}}</div>
-            <div class="col-9 text-light h3">{{item.Id}}</div>
-            <div class="col-9 text-light h3">{{item.DateOfBirdth}}</div>
+			<div class="col-9 text-light h3">{{item.Name}}  :שם</div>
+            <div class="col-9 text-light h3">{{item.Id}}  :תעודת זהות</div>
+            <div class="col-9 text-light h3">{{item.DateOfBirdth}}  תאריך לידה</div>
 			<input (click)="deleteTask(index)" type="button"
 				value="Delete" class="col-2 btn btn-danger">
 		</div>
