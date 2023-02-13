@@ -10,18 +10,14 @@ export class ChildrenService {
 
   constructor(public http:HttpClient) { }
 
-childSer:Child=new Child(0,"",null);
+   childSer:Child=new Child(0,"",null,"");
    baseRouteUrl=`https://localhost:7291/api/Child`
  
   addChild(child:Child){
-    // return this.http.post<object>(`${this.baseRouteUrl}/AddChild/?u=${child}`, child)
     return this.http.post<object>(`${this.baseRouteUrl}`, child)
-  
-
   }
  
   getAllChildren(){
     return this.http.get<Child[]>(`${this.baseRouteUrl}`)
- 
   }
 }

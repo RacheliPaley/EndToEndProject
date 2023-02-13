@@ -15,7 +15,34 @@
   td {
     padding-right: 8px;
   }
-  form{
-    margin:auto ;
-    width: 30vw;
+  
+  .container-main {
+    padding-top: 15px;
   }
+    .content {
+       background:#ededed;
+       height:100%;
+       padding:20px;
+    }
+    
+    .row {
+       margin:10px 0;
+    }
+    form{
+      display:flex ;
+      flex-wrap: wrap;
+      padding: 1em;
+      justify-content: space-evenly;
+}
+ .example-action-buttons {
+  padding-bottom: 20px;
+}
+
+.example-headers-align .mat-expansion-panel-header-description {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.example-headers-align .mat-mdc-form-field + .mat-mdc-form-field {
+  margin-left: 8px;
+}

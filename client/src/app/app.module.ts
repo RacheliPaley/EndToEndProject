@@ -14,8 +14,9 @@ import {MatIconModule} from '@angular/material/icon';
 import { MatInputModule } from '@angular/material/input';
 import {MatSelectModule} from '@angular/material/select';
 import {MatBottomSheetModule} from '@angular/material/bottom-sheet';
-
-
+import { AddChildComponent } from './add-child/add-child.component';
+import {CdkAccordionModule} from '@angular/cdk/accordion';
+import {MatExpansionModule} from '@angular/material/expansion';
 
 
 @NgModule({
@@ -23,11 +24,15 @@ import {MatBottomSheetModule} from '@angular/material/bottom-sheet';
     AppComponent,
     InitComponent,
     FormComponent,
+    AddChildComponent,
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,FormsModule, BrowserAnimationsModule,MatFormFieldModule,HttpClientModule,
-    MatMenuModule,MatToolbarModule,MatIconModule,MatInputModule,MatSelectModule,MatBottomSheetModule
+    AppRoutingModule,FormsModule, BrowserAnimationsModule,MatFormFieldModule,
+    HttpClientModule,
+    MatMenuModule,MatToolbarModule,MatIconModule
+    ,MatInputModule,MatSelectModule,MatBottomSheetModule
+    ,CdkAccordionModule,MatExpansionModule
     
    
   ],

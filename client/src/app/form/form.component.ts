@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import Child from '../models/child';
-import People from '../models/people';
+import User from '../models/user';
 import { ChildrenService } from '../services/children.service';
 import { UserService } from '../services/user.service';
 import { Workbook } from 'exceljs';
@@ -13,95 +13,68 @@ import * as fs from 'file-saver';
 })
 
 export class FormComponent implements OnInit {
-  
-  userP:People = new People(0,"","","",new Date(),"","");
-
-child:Child=new Child(0,"",null,this.userP.Id);
-json_data=[{
-  "תז": this.userP.Tz,
-  "שם": this.userP.Fname,
-  "משפחה":this.userP.Lname,
-  "מין":this.userP.Min,
-  "קופת חולים":this.userP.Hmo
-}
-
-]
-  
+ loto=null
+ idUser=0
+ idChild=0
+public items = [];
+  userP:User = new User(this.idUser++,"","","",new Date(),"","");
+  child:Child=new Child(this.idChild++,"",null,"",this.userP.Id);
   constructor(public userService: UserService,public childService:ChildrenService) { 
-    
   }
-  arr:People[]
-  state: any;
-   isDispley=false
+  arr:User[]
+ 
   ngOnInit(
     
   ): void {
-
-    this.userService.getAllPerson().subscribe((data) => {
-      this.arr = data;
-      console.log(this.arr)
-    }, (err) => {
-        alert("התרחשה שגיאה בקבלת הנתונים");
-        console.log(err)
-    })
     this.userP=this.userService.getFromStorage();
     if(this.userP==null)
-    this.userP=new People (null,null,null,null,null,null,null)
+      this.userP=new User (null,null,null,null,null,null,null)
     console.log( 'init '+this.userP);
-    console.log(this.userP.Fname  );
-  }
-  addChild(){
-this.isDispley=true
-  }
-  addTheChild(){
-    this.childService.addChild(this.childService.childSer).subscribe( good=>{console.log(good),error=>{console.log(error);
-    }
-    })
-    var elem = document.querySelector('#menu');
-
-    // Create a copy of it
-    var clone = elem.cloneNode(true);
-    elem.after(clone);
-  //   this.isDispley=false
-  // }
-  }
-     logIn(){
-      this.userService.saveInStorage(this.userP);
-     this.userService.currentUser.next(this.userP);
-     console.log(this.userService.personSer);
-
-     this.userService.addPerson(this.userService.personSer).subscribe(good=>{console.log(good),
-      error=>{console.log(error);
-        this.downloadExcel()
-      }
-     } 
-     )
-    }
-  
-
-
-    downloadExcel(){
-      let workbook = new Workbook();
-      let worksheet = workbook.addWorksheet("Employee Data");
-      let header=["תז","שם","משפחה","תאריך לידה","מין","קופת חולים"]
-let headerRow = worksheet.addRow(header);
-
-  let x2=Object.keys(this.userP);
-  let temp=[]
-  for(let y of x2)
+   
+} 
+  public deleteTask(index) {
+    this.items.splice(index, 1);
+}
+public addToList() {
   {
-    temp.push(this.userP[y])
+    this.childService.addChild(this.childService.childSer).subscribe( 
+      good =>
+       { console.log(good), 
+      error =>
+       { console.log(error);}
+       }
+    )
+ 
+     this.items.push(this.child);
+     this.child = new Child(0,"",null,"");
   }
-  worksheet.addRow(temp)
-  
-
-//set downloadable file name
-let fname="Emp Data Sep 2020"
-
-//add data and file name and download
-workbook.xlsx.writeBuffer().then((data) => {
-  let blob = new Blob([data], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });
-  fs.saveAs(blob, fname+'-'+new Date().valueOf()+'.xlsx');
-});
-    }
+}
+     logIn(){
+      this.userService.saveInStorage(this.userService.personSer);
+      this.userService.currentUser.next(this.userService.personSer);
+      console.log( 'user ' + this.userService.personSer);
+      this.userService.addPerson(this.userService.personSer).subscribe
+      (good=>
+      {console.log(good),
+      error=>
+      {console.log(error);}
+      if(this.userService==null)
+       alert("הינך כבר רשום במערכת")
+      } 
+     )
+      this.idUser=this.idUser+1
+}
+ exportToCsv() {
+     var  data = [[ this.userService.personSer],
+     this.userService.personSer.Id, this.userService.personSer.Fname,
+      this.userService.personSer.Lname, this.userService.personSer.Min,
+       this.userService.personSer.Hmo,
+    ];
+      var CsvString =JSON.stringify(data);
+      var anchor = document.createElement("A");
+      anchor.setAttribute("href", CsvString);
+      anchor.setAttribute("download", "somedata.csv");
+      document.body.append(anchor);
+      anchor.click();
+ } 
 }
